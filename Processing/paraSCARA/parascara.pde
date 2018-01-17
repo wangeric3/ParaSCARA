@@ -5,7 +5,7 @@ boolean click = false;
 int mode = 0;
 float a = 53.5, b = 90, m = 18, l;
 float x, y, x1, x2, x3, x4, y1, y2, y3, y4, xl, yl, t0, t1, t2, i=0, loop=0;
-int h = 500, w = 500; 
+int h = 500, w = 500, test = 3; 
 
 void setup(){
   size(w,h);
